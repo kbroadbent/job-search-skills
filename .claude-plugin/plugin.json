@@ -1,0 +1,8 @@
+{
+  "name": "job-search",
+  "version": "0.1.0",
+  "description": "End-to-end job search system: study planning, position tracking, company research, resume tailoring, recruiter outreach, and interview prep — with shared memory across all skills.",
+  "author": {
+    "name": "Kent Broadbent"
+  }
+}

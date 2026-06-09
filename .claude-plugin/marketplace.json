@@ -1,0 +1,13 @@
+{
+  "name": "job-search",
+  "owner": {
+    "name": "Kent Broadbent"
+  },
+  "plugins": [
+    {
+      "name": "job-search",
+      "source": "./",
+      "description": "End-to-end job search system: study planning, position tracking, company research, resume tailoring, recruiter outreach, and interview prep — with shared memory across all skills."
+    }
+  ]
+}
